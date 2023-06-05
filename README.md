@@ -1,15 +1,15 @@
 # Exp7-java
 Aim:
 To code a program that adds a new value to an array.
-Algorithm:
-Step1:
+## Algorithm:
+### Step1:
 Import the required packages.
-Step2:
+### Step2:
 Using for loop add a new value to the existing array by assigning it to a variable.
-Step3:
+### Step3:
  Display the result.
 
-Code:
+## Code:
 ```
 import java.util.Arrays;
 public class Exp7 {
@@ -30,8 +30,8 @@ public class Exp7 {
     }
 
 ```
-Output:
+## Output:
 ![image](https://github.com/Archana2003-Jkumar/Exp7-java/assets/93427594/de14a76e-6ddb-4810-8c72-340c4da3ffb6)
 
-Result:
+## Result:
 Hence the program has been successfully executed.
